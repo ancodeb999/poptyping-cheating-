@@ -15,7 +15,6 @@ This software is provided "as is" without any express or implied warranties.
 The author is not liable for any direct or indirect losses arising from the use of this software, 
 including but not limited to account bans, legal disputes, and financial losses.
 """
-# a cheating script for poptyping
 pytesseract.pytesseract.tesseract_cmd = r"C:\Program Files\Tesseract-OCR\tesseract.exe"
 OCR_CONFIG = r'--oem 3 --psm 7 -c tessedit_char_whitelist=abcdefghijklmnopqrstuvwxyz-?!、'
 
@@ -75,4 +74,5 @@ def main():
 
     print("終了しました")
 if __name__ == "__main__":
+
     main()
