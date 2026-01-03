@@ -1,2 +1,4 @@
-# poptyping-cheating-
-a script of cheating poptyoping.
+# poptyping-cheating
+
+このプログラムはタイピングゲームのヘルパープログラムです。まずコマンドを実行してください。
+```pip install -r requirements.txt```
